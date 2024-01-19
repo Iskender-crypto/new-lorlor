@@ -1,0 +1,179 @@
+// Suggested location to add your overrides so that migration would be easy by just updating the SASS folder in the future
+body{
+  font-family: Arial;
+}
+a {
+  outline: none !important;
+  box-shadow: none !important;
+  color: var(--primary-color);
+}
+.p-menubar{
+  margin-left: -10px;
+}
+button {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.p-menubar .p-menubar-root-list > .p-menuitem:not(.p-highlight):not(.p-disabled) > .p-menuitem-content:hover{
+
+}
+.p-menuitem-text{
+  color: #5e74b7;
+}
+.p-menubar .p-menuitem::after{
+  background-color: #5bbdbe;
+  width: 0;
+  content: "";
+  display: block;
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 50%;
+  height: 4px;
+  border-radius: 7px;
+  transition: 0.2s ease-out;
+}
+.p-menubar .p-menuitem:hover::after{
+  width: 100%;
+  left: 0%;
+}
+.p-radiobutton {
+  margin-right: 5px;
+}
+
+.field-radiobutton {
+  margin-top: 10px;
+}
+
+.p-menubar{
+  background: white;
+  border: none;
+}
+.pi-search:hover{
+  color: #5bbdbe;
+}
+
+.p-button.p-button-secondary.p-button-text:enabled:hover, .p-buttonset.p-button-secondary > .p-button.p-button-text:enabled:hover, .p-splitbutton.p-button-secondary > .p-button.p-button-text:enabled:hover{
+  background-color: #dedede;
+}
+.p-carousel-indicators{
+  display: none !important;
+}
+
+
+.animation-icon--left {
+  -webkit-animation: animationiconleft 3s infinite both;
+  animation: animationiconleft 3s infinite both;
+}
+@keyframes animationiconleft {
+  0%{
+    transform: translate(0,0);
+  }
+  50%{
+    transform: translate(10px,10px);
+  }
+  100%{
+    transform: translate(0,0);
+  }
+}
+.animation-icon--right {
+  -webkit-animation: animationiconright 3s infinite both;
+  animation: animationiconright 3s infinite both;
+}
+@keyframes animationiconright {
+  0%{
+    transform: translate(0,0);
+  }
+  50%{
+    transform: translate(-10px,-10px);
+  }
+  100%{
+    transform: translate(0,0);
+  }
+}
+.p-carousel{
+  position: relative !important;
+}
+.p-carousel-content .p-carousel-prev{
+  position: absolute;
+  right: 80px;
+  bottom: 20px;
+  z-index: 10;
+  width: 40px !important;
+  height: 40px !important;
+  background: rgba(200, 200, 200, 0.4)!important;
+  border-radius:0 !important;
+  @media screen and (max-width: 768px){
+    bottom: 60px;
+  }
+}
+.p-carousel .p-carousel-content  .p-carousel-next{
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius:0 !important;
+  background: rgba(200, 200, 200, 0.4)!important;
+  @media screen and (max-width: 768px){
+    bottom: 60px;
+  }
+}
+.p-carousel .p-carousel-content  .p-carousel-next:hover, .p-carousel-content .p-carousel-prev:hover{
+  background: rgba(106, 113, 236, 0.8) !important;
+}
+
+.footer-icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  .footer-icon{
+    height: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .navbar{
+    padding: 10px 0;
+  }
+  .p-menuitem{
+    display: none;
+  }
+  .p-menubar-button{
+    display: block !important;
+  }
+}
+.p-accordion .p-accordion-header:not(.p-highlight):not(.p-disabled):hover .p-accordion-header-link{
+  background: #dee2e6;
+}
+.p-accordion .p-accordion-header:not(.p-disabled).p-highlight:hover .p-accordion-header-link{
+  background: #dee2e6;
+}
+.p-accordion .p-accordion-header .p-accordion-header-link .p-accordion-toggle-icon{
+  display: none;
+}
+.p-accordion-tab .accordion-img {
+  transition: 0.5s;
+}
+.p-accordion-tab-active .accordion-img {
+  transform: rotate(180deg);
+}
+
+.p-accordion .p-accordion-content{
+  padding: 0;
+  background: transparent;
+}
+.p-accordion .p-accordion-header .p-accordion-header-action{
+  background: #dee2e6;
+}
+.p-accordion .p-accordion-header .p-accordion-header-link,.p-accordion .p-accordion-content{
+  border: none !important;
+}
+
+.p-accordion .p-accordion-header:not(.p-disabled).p-highlight .p-accordion-header-link{
+  background: #dee2e6;
+
+}

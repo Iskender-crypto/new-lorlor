@@ -1,0 +1,33 @@
+@import "sakai/layout";
+@import "_overrides";
+.container {
+  width: 1200px;
+  margin: auto;
+  @media screen and (max-width: 1250px) {
+    width: 992px;
+  }
+  @media screen and (max-width: 1040px) {
+    width: 768px;
+  }
+  @media screen and (max-width: 805px) {
+    width: 576px;
+  }
+  @media screen and (max-width: 610px) {
+    width: 100%;
+    padding: 0 1.5rem;
+  }
+  @media screen and (max-width: 502px) {
+    padding: 0 10px;
+  }
+}
+
+.markdown {
+  table, th, td {
+    padding: 0.5rem;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    a {
+      color: inherit;
+    }
+  }
+}

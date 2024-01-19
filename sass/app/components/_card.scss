@@ -1,0 +1,33 @@
+.p-card:hover{
+  box-shadow: 0 0.5rem 24px rgba(0, 0, 0, 0.15);
+  transition: all 0.2s ease-in-out;
+
+}
+.p-card .p-card-header{
+  height: 250px;
+}
+.p-card:hover .p-card-title{
+  color: #5bbdbe;
+}
+.p-card .p-card-title{
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 20px;
+  @media screen and (max-width: 576px){
+    font-size: 20px;
+  }
+}
+
+.p-card .p-card-body{
+  border-top: 3px solid #5bbdbe;
+  padding: 30px;
+}
+.p-card-content p{
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 16px;
+}

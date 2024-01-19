@@ -1,0 +1,577 @@
+[33mcommit 64c14cbda99f5ad770d947edef8d856674ff1c7a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m
+Merge: 448ede8 c152c92
+Author: Iskender Azamov <77961856+Iskender-crypto@users.noreply.github.com>
+Date:   Mon Jul 24 01:04:54 2023 +1200
+
+    Merge pull request #6 from Iskender-crypto/adilet
+    
+    Adilet
+
+[33mcommit 448ede8a308448074f85f915ff246befe35f744a[m
+Author: Iskender-crypto <iskenderazamov@gmail.com>
+Date:   Sun Jul 23 18:38:24 2023 +0600
+
+    cdcdcd
+
+[33mcommit c152c92886e8446e7e9d1fc5037f78ab9eb81e35[m[33m ([m[1;31mgithub/adilet[m[33m)[m
+Merge: 3e03a72 448ede8
+Author: Desktop <adiletbiruni.fr@gmail.com>
+Date:   Sun Jul 23 18:50:36 2023 +1200
+
+    Merge branch 'main' of https://github.com/Iskender-crypto/lorlor into adilet
+    
+    # Conflicts:
+    #       pages/index.vue
+    #       sass/app/main.scss
+    #       sass/layout/_overrides.scss
+
+[33mcommit 3e03a72bddd086feb85cd984e7047c56c1177bdc[m
+Author: Desktop <adiletbiruni.fr@gmail.com>
+Date:   Sun Jul 23 18:41:26 2023 +1200
+
+     end
+
+[33mcommit a529e84ec02649dacde99f810cd77e8d7bb038cb[m
+Author: Desktop <adiletbiruni.fr@gmail.com>
+Date:   Sun Jul 23 18:36:07 2023 +1200
+
+     Iam
+
+[33mcommit 46ecf762c17a847e1f0848fae4d10a94ef458828[m
+Author: Desktop <adiletbiruni.fr@gmail.com>
+Date:   Sun Jul 23 18:31:33 2023 +1200
+
+     Iam
+
+[33mcommit 5bd5fba97945ae24d16de06e160c8a3a932fa184[m
+Author: Iskender-crypto <iskenderazamov@gmail.com>
+Date:   Tue Jul 11 00:38:46 2023 +0600
+
+    cdcdcd
+
+[33mcommit 171b0d522d0841c3fe0ea11f8d18a9b5af0349e4[m
+Author: Desktop <adiletbiruni.fr@gmail.com>
+Date:   Tue Jul 11 00:49:11 2023 +1200
+
+    title edit Imm
+
+[33mcommit d6d0b4cd9df432d11479d9c99984a5d23480c837[m
+Author: Desktop <adiletbiruni.fr@gmail.com>
+Date:   Tue Jul 11 00:46:54 2023 +1200
+
+    title edit I
+
+[33mcommit 4a6072301ad0fed067cece201c33b0f02ea747f2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Mon Jun 19 19:58:27 2023 +0200
+
+    core(update): nuxt-primevue 1.1.6
+
+[33mcommit e3b2d1845101db900fe486c3194e2ac9fd168fcc[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Jun 10 13:02:21 2023 +0200
+
+    core(dependencies): nuxt 3.5.3 - use pnpm lockfile 6.0
+
+[33mcommit 73f8370bce884e2ca33f60d3836e1a6a4a5dcbf5[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Jun 10 12:42:57 2023 +0200
+
+    core(dependencies): nuxt 3.5.3 - use pnpm lockfile 6.0
+
+[33mcommit 39bbed39eb81eacef5dee16c3caaa9770704db61[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Jun 10 12:41:28 2023 +0200
+
+    core(dependencies): nuxt 3.5.3
+
+[33mcommit 632900c61bcf40d4763cba9db510afdc3f45ff4f[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 14:42:47 2023 +0200
+
+    fix(page): UnoCss
+
+[33mcommit 44b20c6fdd07828395e5bac2943fa639df3ff019[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 14:01:17 2023 +0200
+
+    chore(deps): problems with latest nuxt content
+
+[33mcommit e2ca661b4026f001cc1f2f6da3fb9d84818dabd7[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 13:57:40 2023 +0200
+
+    chore(deps): remove overrides
+
+[33mcommit 5412aeced562b40381c719856b7d351520533da1[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 13:54:48 2023 +0200
+
+    chore(deps): remove overrides
+
+[33mcommit 0e163e9511cb920946f263c49a2d0cb945c6e270[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 13:52:29 2023 +0200
+
+    chore(deps): remove overrides
+
+[33mcommit 8df9a7d696f61522cd071688da77c008cdb23dba[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 13:47:11 2023 +0200
+
+    feat(sakai): Align with latest Sakai Nuxt
+
+[33mcommit ee96b87bc234c49950e801d0cba47ae4edfc39ab[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 13:40:04 2023 +0200
+
+    feat(sakai): Align with latest Sakai Nuxt
+
+[33mcommit 98c6e80900e708dc38b458b19755e0ff2f4f76bc[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 13:23:51 2023 +0200
+
+    feat(sakai): Align with latest Sakai Nuxt
+
+[33mcommit 3a85bffb7f663eacc2f64029a220d5f0f2bc6aec[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 11:57:26 2023 +0200
+
+    core(dependencies): nuxt 3.5.0
+
+[33mcommit 1d02168bbd1ad8d0b3b1347a21f61d8ce0f02506[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 20 11:17:04 2023 +0200
+
+    core(dependencies): nuxt 3.5.0
+
+[33mcommit c01a6c3d3f8c7ec39f85c1a1f521b32c391b3979[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun May 14 14:17:23 2023 +0200
+
+    core(update): nuxt-primevue 1.1.5
+
+[33mcommit 5be8f3ee9430fa1d276daad6d612e1ac11331d45[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat May 6 08:01:50 2023 +0200
+
+    core(update): update all dependencies
+
+[33mcommit 2fd514118717c1539c162e91d47fece6fe153d8a[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Wed Apr 26 22:12:50 2023 +0200
+
+    core(update): update dependencies
+
+[33mcommit 7a18326aa24224fc051f84310bdd6026b151431c[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Wed Apr 26 20:35:22 2023 +0200
+
+    core(update): update dependencies
+
+[33mcommit 665bdfaa68141a93e7fa8f001c41902c3f05795a[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Apr 20 18:26:34 2023 +0200
+
+    docs(README): add some missing links
+
+[33mcommit 94928ee49a6af478c6c4c0fe8c6c01667136abd1[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Apr 20 18:20:26 2023 +0200
+
+    feat(I18n): Add Nuxt 3 I18n (Beta)
+
+[33mcommit e24c270f7f64b4a7a1d312c46d7a980ca1c3fd73[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Apr 20 18:05:34 2023 +0200
+
+    core(dependencies): nuxt 3.4.2
+
+[33mcommit 294797f689f52111e5677921ccdaed9c92995319[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 16 13:02:54 2023 +0200
+
+    feat(editor): Add TipTag Example as alternative Editor
+
+[33mcommit a8337c160c6b7407df50ba3fb25bb7f95c16004c[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 16 12:16:53 2023 +0200
+
+    feat(editor): Add TipTag Example as alternative Editor
+
+[33mcommit 15c7e481a616c2fec8d1545742a391afb7bc27c3[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 16 12:03:00 2023 +0200
+
+    feat(editor): Add TipTag Example as alternative Editor
+
+[33mcommit d3fbaeef544237fd32f80f07f0ea9233c552fd31[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 16 12:01:35 2023 +0200
+
+    feat(stores): Add SetupStore sample
+
+[33mcommit f1dbca777c7c335f27d3fdf4d3edff3482a30fad[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 16 12:01:24 2023 +0200
+
+    feat(stores): Add SetupStore sample
+
+[33mcommit fef74a741ab355a6008a41a6d461f11164a1d749[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Apr 14 00:55:01 2023 +0200
+
+    core(dependencies): nuxt 3.4.1
+
+[33mcommit fa592f57ff36e5931531e570d9794eae341fc47c[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Wed Apr 12 09:42:54 2023 +0200
+
+    core(dependencies): nuxt 3.4.0 devtools setup
+
+[33mcommit 33862de27f2c08852b9f44d5174b9d6dbdd096eb[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Tue Apr 11 21:40:43 2023 +0200
+
+    core(dependencies): nuxt 3.4.0  changes (and overrides) for consola 3 needed
+
+[33mcommit 3fe214791c41dd6867353dfb61df1f04dc5efad3[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Tue Apr 11 18:26:56 2023 +0200
+
+    chore(eslint): switch to eslint-config-typescript
+
+[33mcommit b57ec6e8505d078724ef3395157e039f79c8bf55[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Mon Apr 10 22:57:51 2023 +0200
+
+    chore(workflows): set pnpm version to 8.2.0
+
+[33mcommit 3371ec879684ceafa1c394015d42d130a777fb0e[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Mon Apr 10 22:32:46 2023 +0200
+
+    chore(deploy): update netlify settings
+
+[33mcommit 4564885c986a2263e2b4f0af8cea978ef1933387[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 9 22:16:35 2023 +0200
+
+    chore(deploy): update netlify settings
+
+[33mcommit 8458605fa8d5c60886e2c43325e66a99b1eb0157[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 9 17:32:21 2023 +0200
+
+    chore(github): set node version to 18
+
+[33mcommit 4a6d1fca0c31938ad3f35760fe40b301f9ccef70[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 9 17:30:08 2023 +0200
+
+    chore(github): set node version to 18
+
+[33mcommit 136458ddd148840e31bbc432a030203f95120304[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 9 17:19:23 2023 +0200
+
+    feat(tools): add nuxt devtools
+
+[33mcommit 9bd68a2edda45f83fae029ea226840675cfe4b52[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 9 17:18:49 2023 +0200
+
+    feat(tools): add nuxt devtools
+
+[33mcommit c6ac4df6dbad7549a5052b01348ed00ef5857851[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Apr 9 17:11:54 2023 +0200
+
+    core(update): nuxt-primevue 1.0.6
+
+[33mcommit 18c0604458fe0d52dc472095ad301d81738ffd3b[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Mar 25 21:08:56 2023 +0100
+
+    core(dependencies): nuxt 3.3.2 - fixed unstorage problem
+
+[33mcommit 6b206e14b77fb3950a5ad52ab74d8243b867610a[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Mar 25 16:40:57 2023 +0100
+
+    core(dependencies): revert to nuxt 3.3.1 because of problems with unstorage 1.4.1
+
+[33mcommit 03c9c42e6946862bd199cd513e81862001b7d41a[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Mar 25 10:18:32 2023 +0100
+
+    core(dependencies): nuxt 3.3.2
+
+[33mcommit 1e2bac24a96bf2c9f356055e76e39250ac8987e4[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Mar 25 10:18:13 2023 +0100
+
+    core(dependencies): nuxt 3.3.2
+
+[33mcommit 48e42052adb3447f7d935dbf7530163ead639d93[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Wed Mar 22 00:44:59 2023 +0100
+
+    feat(Histoire): Add PrimeVue CSS in setup
+
+[33mcommit 2532a2292454470ccf18b8f0bbdcdbadddd9d972[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Wed Mar 22 00:19:51 2023 +0100
+
+    fix(Histoire): Reset to 0.14.2
+
+[33mcommit f816f37dc4beb0e331dbfb412f61c912547024fd[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Tue Mar 21 22:23:33 2023 +0100
+
+    core(update): nuxt-primevue 1.0.5
+
+[33mcommit c17cd77bed833bdfee7a866a6bbc6ad7c4de972d[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Tue Mar 14 22:33:27 2023 +0100
+
+    docs(README): Changed latest node LTS to 18
+
+[33mcommit c9e2a8d9c78bf29aaafc2d96ada85ac7c6fe73a6[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Tue Mar 14 22:18:05 2023 +0100
+
+    core(dependencies): nuxt 3.3.1 nuxt-primevue 1.0.4
+
+[33mcommit fd7c0feb27b678ebc82f0cd73f916e8af7868cc0[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Mar 10 13:45:36 2023 +0100
+
+    fix(Toast): Toast not working in DEV mode
+    
+    Added transpile to nuxt config
+
+[33mcommit 69f052ec5fc5a4932d838155eeaa6113900da281[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Wed Mar 8 21:52:26 2023 +0100
+
+    core(update): nuxt-primevue 1.0.3
+
+[33mcommit 194d2eb906b6bd7f797b2e6a3a1ef56a40ee2dee[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Feb 12 11:16:05 2023 +0100
+
+    core(update): nuxt-primevue 1.0.0
+
+[33mcommit 782df19901cdfb97a3abd39c6168df6be0f5ff76[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Feb 3 16:23:36 2023 +0100
+
+    core(update): dependencies
+
+[33mcommit a348eed1feb8e89a6b1f8cfc7a96c1b646a11db5[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Jan 13 13:45:41 2023 +0100
+
+    core(update): dependencies
+
+[33mcommit a1c683a1ddb3b8c91634ac7775babde6c9a32511[m
+Merge: e9b3b75 6659406
+Author: Tom <tom@sfxcode.com>
+Date:   Fri Jan 13 13:42:45 2023 +0100
+
+    Merge pull request #11 from klukiyan/main
+    
+    persist theme when navigating
+
+[33mcommit 6659406b2f96b252d21e5490ed67a6204520876e[m
+Author: Kiril Lukiyan <kiril.lukiyan@gmail.com>
+Date:   Fri Dec 30 21:11:15 2022 +0100
+
+    persist theme when naivating
+
+[33mcommit e9b3b75188316d6e3084e7ecfc1f3b2fc428c195[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Dec 29 06:39:34 2022 +0100
+
+    core(update): dependencies
+
+[33mcommit c9ac9afd6b6dd0cfe72d4bb6684b490abc4dd8b1[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Dec 2 09:49:28 2022 +0100
+
+    core(update): nuxt-primevue 0.9.4
+
+[33mcommit b3d39029a799fd4495c2871e69a5210311b0c246[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Nov 17 14:03:31 2022 +0100
+
+    core(update): nuxt-primevue 0.9.3
+
+[33mcommit f07aebccdf9fc8071120d1269d623f0319c97280[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Nov 17 13:16:02 2022 +0100
+
+    core(update): Formkit 1.0.0 Beta 12
+
+[33mcommit f2386e6da14120ea00ff1a8202a5a67867fb52cc[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Nov 17 13:12:08 2022 +0100
+
+    core(update): Nuxt 3 Final
+
+[33mcommit 15f1366bede562b83f808d9c6d32d78e430c4d6f[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Nov 17 13:11:05 2022 +0100
+
+    core(update): Nuxt 3 Final
+
+[33mcommit e6702e8e62bbd13265ecb47defe0a12c7e3f5e46[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Nov 17 13:09:33 2022 +0100
+
+    core(update): Nuxt 3 Final
+
+[33mcommit 79b87eef5c20fd42e161ce1bc89943d9442681f1[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Nov 17 10:46:28 2022 +0100
+
+    core(update): Nuxt 3 Final
+
+[33mcommit 18950fe81ed705a5a1559055179f8eb44233db08[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Thu Nov 17 09:28:22 2022 +0100
+
+    core(update): Nuxt 3 Final
+
+[33mcommit 7ce754ae92ff5176c5c756547952963ba1291bf4[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Tue Nov 15 12:31:57 2022 +0100
+
+    refactor(nuxt-primevue): Use 0.9.1
+
+[33mcommit 7113bf9140b79c030bf2836bb69763f930485bc8[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Nov 4 14:27:42 2022 +0100
+
+    refactor(nuxt-primevue): Use 0.8.4
+
+[33mcommit eedfeff2560f011eb9cc1a3c7a392e41163494a8[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Oct 29 12:30:57 2022 +0200
+
+    refactor(server): Use Server API for Products
+
+[33mcommit 250a2b1b5224953148c6986d821daaea76969097[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Oct 29 11:39:09 2022 +0200
+
+    refactor(server): Use Server API for Products
+
+[33mcommit 4cdf3ce6d773f3e62d90db95af32be8606a2fe5b[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Mon Oct 17 07:06:27 2022 +0200
+
+    core(update): dependencies
+
+[33mcommit 73e98cf01ed8874e03d94d2806a363cc919aa4fd[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Sep 24 21:09:14 2022 +0200
+
+    core(update): dependencies
+
+[33mcommit f740e6fe0166ba80b52f5a8abff5df4392d7a3c2[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Sep 18 12:07:56 2022 +0200
+
+    refactor(nuxt-primevue): Use 0.8.2
+
+[33mcommit cfa2b9b0b1f632a973f5e3bdcce4d261a207474d[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Sep 11 18:19:43 2022 +0200
+
+    refactor(nuxt-primevue): Use 0.8.0
+    
+    PrimeVue 3.17.0
+
+[33mcommit cead5e3515ff7185fc4f663d0b2041acd01c2682[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Aug 26 16:14:59 2022 +0200
+
+    refactor(nuxt-primevue): Use 0.7.0
+    
+    PrimeVue 3.16.2
+
+[33mcommit ea0665a954630aeb4e5ba42cceb56eedae8dfca9[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Aug 26 16:14:16 2022 +0200
+
+    refactor(nuxt-primevue): Use 0.7.0
+    
+    PrimeVue 3.16.2
+
+[33mcommit 574bbdfbec3a0c3a3a06eb66ff50f24d78fa2370[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Aug 21 18:25:00 2022 +0200
+
+    refactor(nuxt-primevue): Use 0.6.9
+    
+    Supports Configuration of PrimeVue
+
+[33mcommit e240a9bb4171ad0289c30f0eafd4d1cf86bd2672[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Aug 19 23:41:58 2022 +0200
+
+    refactor(nuxt-primevue): Use 0.6.4
+    
+    PrimeVue 3.6.1
+
+[33mcommit a0df43d5ebb30ea8c9d99b855fc9ab760f79f644[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Aug 13 11:12:44 2022 +0200
+
+    refactor(nuxt-primevue): Use 0.6.3
+    
+    chart.js in  versions prior 0.6.3. causes ssr error - should now build
+
+[33mcommit 4005f067604beb9d226b32b1a8bb21f42f4d37b6[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Aug 5 19:03:33 2022 +0200
+
+    test(Vitest): Fix Nuxt Errors
+
+[33mcommit ebe29fa31b8fbefa7e59a278c43a8e0c963e3807[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Fri Aug 5 00:17:19 2022 +0200
+
+    core(update): dependencies
+
+[33mcommit 114c1f5cc61732aa2a4cf94a65568f80ad948ff3[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Jul 31 18:39:55 2022 +0200
+
+    fix(Histoire): Add Plugin Vue
+
+[33mcommit a2caef1812164e5706fbe40cf7bf961221090edd[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Jul 31 18:38:08 2022 +0200
+
+    fix(Histoire): Add Plugin Vue
+
+[33mcommit 53c9d38687b343038ae66b6d110040c8909df05a[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Jul 31 18:37:04 2022 +0200
+
+    core(update): dependencies
+
+[33mcommit 345a05082ead09d365b749dd2054a7b6207fb292[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sat Jul 30 12:55:31 2022 +0200
+
+    core(update): dependencies - Use @sfxcode/nuxt-primevue 0.6.0
+
+[33mcommit 573cc10862db8306cae5b518e563e44c097b16d4[m
+Author: sfxcode <tom@sfxcode.com>
+Date:   Sun Jul 24 23:51:33 2022 +0200
+
+    refactor(Composables): usePrimeDataTable from nuxt-primevue

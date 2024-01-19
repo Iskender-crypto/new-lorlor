@@ -1,0 +1,54 @@
+.line-scroll{
+border-bottom:2px solid #d3d3d3;
+  padding-bottom: 25px;
+}
+.scroll-hover{
+  position: relative;
+}
+.scroll-hover .line-scroll::after{
+    background-color: #5bbdbe;
+    width: 0;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 88px;
+    left: 50%;
+    border-radius: 7px;
+    transition: 0.2s ease-out;
+    height: 2px;
+    transform: translateX(50%);
+}
+.list-title{
+  color: #545454;
+  font-size: 16px;
+  font-weight: 500;
+}
+.lis-menu{
+  position: relative;
+}
+.list-item{
+  margin-bottom: 12px;
+  position: relative;
+  list-style: none;
+  &::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -20px;
+    transform: translateY(-50%);
+    width: 7px;
+    height: 7px;
+    background: #f45b69;
+    border-radius: 50%;
+  }
+}
+.list-link{
+  color: #545454;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  &:hover{
+    color: #5e74b7;
+  }
+
+}
+

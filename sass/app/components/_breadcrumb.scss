@@ -1,0 +1,55 @@
+.breadcrumb{
+  background: transparent;
+  border: none;
+  .p-menuitem-separator{
+      display: none !important;
+  }
+  .p-menuitem-text{
+    color: white !important;
+    font-weight: 500;
+  }
+  .p-menuitem{
+    padding: 10px 20px 10px 25px;
+    position: relative;
+    z-index: 0 !important;
+  }
+  .p-menuitem::after{
+    position: absolute ;
+    z-index: -1;
+    left: 0 ;
+    top: 0 ;
+    width: 100% ;
+    height: 100% ;
+    content: "" ;
+    display: block;
+    transform: skew(-30deg);
+    transform-origin: 0 100%;
+  }
+  .p-menuitem:nth-child(1){
+    background: #5e74b7 ;
+  }
+  .p-menuitem:nth-child(1):hover{
+    background: #465b9c;
+  }
+  .p-menuitem::after{
+    background: #5e74b7 ;
+  }
+  .p-menuitem:hover::after{
+    background: #465b9c;
+  }
+  .p-menuitem:nth-last-child(1),.p-menuitem:nth-last-child(1) .p-menuitem-text {
+    cursor: default;
+  }
+  .p-menuitem:nth-last-child(1)::after{
+    background: #80cccc;
+  }
+  .p-menuitem:nth-last-child(1):hover::after{
+    background: #80cccc;
+  }
+
+  .p-menuitem.p-disabled::after{
+    background: #80cccc !important;
+  }
+}
+
+
