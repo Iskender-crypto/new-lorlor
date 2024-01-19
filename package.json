@@ -22,7 +22,7 @@
     "@histoire/plugin-nuxt": "^0.16.2",
     "@histoire/plugin-vue": "^0.16.1",
     "@iconify-json/carbon": "^1.1.18",
-    "@iconify-json/mdi": "^1.1.52",
+    "@iconify-json/mdi": "^1.1.64",
     "@iconify-json/prime": "^1.1.5",
     "@iconify-json/twemoji": "^1.1.11",
     "@nuxt/content": "^2.7.0",
